@@ -34,7 +34,8 @@
   - Built simulation frameworks → **boosted revenue and occupancy rates**.  
   - Recognized with a **Mentorship Certificate from MentorMind x CultFit**.  
 
-- 🏫 **Lead Score Analysis (X EdTech Company)**  
+- 🎯 [Lead Score Prediction for X Education](https://github.com/Anusha-N114/Lead-Score-Prediction-for-X-edtech-company-to-filter-leads)  
+  *Built a Logistic Regression–based Lead Scoring Model to identify high-quality leads, improving conversion efficiency by ~30% through data-driven prioritization.*
   - Built a **logistic regression model** to filter leads across the funnel.  
   - Improved conversion targeting by identifying **high-probability prospects**.  
   - Streamlined sales funnel efficiency and reduced wasted outreach efforts.  
