@@ -4,58 +4,67 @@
 <img src="https://img.shields.io/badge/SQL-Advanced%20Queries-orange?style=flat-square&logo=mysql" /> 
 <img src="https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=flat-square&logo=powerbi" /> 
 <img src="https://img.shields.io/badge/Machine%20Learning-Predictive-green?style=flat-square&logo=scikitlearn" />  
-<img src="https://img.shields.io/badge/Deep%20Learning-CNN-purple?style=flat-square&logo=tensorflow" />  
 
 ---
 
 ## 🌟 About Me  
-🎯 **Data Analyst | Aspiring Data Scientist**  
-💡 Transitioning from **QA Automation** into **Data Science & Analytics** with hands-on experience in **Python, SQL, Excel, Machine Learning, and Power BI**.  
-📊 Skilled at **EDA, predictive modeling, visualization, and business insights**.  
-🤝 Open to **entry-level roles, collaborations, and mentorship opportunities** in Data Analytics, ML, and BI.  
+🎯 **Aspiring Data Analyst & Data Scientist** with a background in QA Automation and proven success in **Data Analysis, SQL, Python, and Power BI**.  
+💡 Skilled at **building predictive models, designing dashboards, and generating actionable business insights** with 80%+ model accuracy in projects.  
+📊 Passionate about applying data-driven approaches to solve **real-world business problems**.  
 
 ---
 
 ## 🚀 Skills & Tools  
 
-- 🐍 **Programming:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, Statsmodels)  
-- 🗄️ **Databases:** MySQL, PostgreSQL (advanced queries, window functions)  
-- 📊 **Visualization:** Power BI, Matplotlib, Seaborn, Excel PivotTables  
-- 🤖 **Machine Learning:** Logistic Regression, Decision Trees, Random Forest, Clustering, Forecasting, Deep Learning (CNNs)  
-- 📈 **Business Analytics:** KPI reporting, forecasting, churn analysis, credit risk modeling  
-- 🧑‍🤝‍🧑 **Collaboration:** Mentored a team at **CultFit** on ML-based pricing strategy through MentorMind  
+- **Programming & Tools:** Python (Pandas, NumPy, Scikit-learn, TensorFlow), SQL, Excel, GitHub, Jupyter  
+- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Machine Learning:** Regression, Logistic Regression, Classification, Clustering, Forecasting  
+- **Deep Learning:** Neural Networks, CNNs, NLP basics  
+- **Business Applications:** Pricing optimization, customer churn analysis, credit risk modeling, lead funnel optimization  
 
 ---
 
 ## 📂 Featured Projects  
 
-### 🔹 Machine Learning & Analytics
-- 📈 [Dynamic Pricing Strategy](https://github.com/Anusha-N114/Dynamic-Pricing-Stratergy)  
-  💡 Developed ML-based dynamic pricing algorithms under **MentorMind x CultFit mentorship program**.  
-  🔑 Skills: Regression, Time Series Forecasting, Price Elasticity Modeling  
+### 🔹 Advanced Analytics & Machine Learning  
 
-- 🎓 **Lead Score Analysis (X EdTech Company)**  
-  🔍 Built a **logistic regression model** to classify high-potential leads and filter the sales funnel.  
-  📊 Optimized lead conversion rates → improved funnel efficiency and reduced marketing costs.  
-  🔑 Skills: Logistic Regression, Feature Engineering, AUC-ROC Evaluation  
+- 📈 [Dynamic Pricing Strategy](https://github.com/Anusha-N114/Dynamic-Pricing-Stratergy)  
+  - Developed a **data-driven pricing model** for CultFit under MentorMind mentorship.  
+  - Applied **regression, time-series forecasting, and elasticity modeling** to optimize prices by demand, time, and location.  
+  - Built simulation frameworks → **boosted revenue and occupancy rates**.  
+  - Recognized with a **Mentorship Certificate from MentorMind x CultFit**.  
+
+- 🏫 **Lead Score Analysis (X EdTech Company)**  
+  - Built a **logistic regression model** to filter leads across the funnel.  
+  - Improved conversion targeting by identifying **high-probability prospects**.  
+  - Streamlined sales funnel efficiency and reduced wasted outreach efforts.  
 
 - 💳 [Credit Risk Analysis](https://github.com/Anusha-N114/EDA-Credit_Risk_analysis)  
-  📊 Conducted EDA on financial data to identify high-risk loan applicants.  
-  📌 Used univariate, bivariate, and correlation analysis to detect risk variables.  
+  - Analyzed **3 real-world datasets** (applications, previous loans, data dictionary).  
+  - Identified **high-risk borrower patterns** via segmented univariate & bivariate analysis.  
+  - Addressed missing values with **justifiable imputations** and detected outliers without removal.  
+  - Conducted correlation analysis segmented by default → highlighted **top default predictors**.  
 
 - 📞 [Telecom Customer Churn](https://github.com/Anusha-N114/Machine-learning-logistic-regression-telecom-customer-churn)  
-  🧮 Logistic regression to predict churn → achieved **81% accuracy**.  
-  🔑 Skills: EDA, Feature Engineering, Model Evaluation (ROC-AUC).  
+  - Conducted **EDA and feature engineering** on telecom data.  
+  - Built a **logistic regression model** with 81% accuracy.  
+  - Identified **key churn drivers** and provided business recommendations.  
 
-- 🧬 **Deep Learning: Melanoma Detection** *(Work in Progress)*  
-  🖼️ Custom CNN model for multiclass skin cancer image classification (ISIC dataset).  
+- 🧬 **Deep Learning: Melanoma Detection (Ongoing)**  
+  - Developing a **custom CNN model** for multiclass skin cancer image classification.  
+  - Leveraging ISIC dataset (2,357 images across 9 categories) to assist **early melanoma detection**.  
 
-### 🔹 SQL & Business Intelligence
+---
+
+### 🔹 SQL & Business Intelligence  
+
 - 🎬 [Movie Data Analysis (SQL)](https://github.com/Anusha-N114/RSVP-movie-analysis-using-SQL)  
-  🗄️ Wrote advanced SQL queries (window functions, joins, CTEs) for insights on movies and revenue trends.  
+  - Designed **advanced SQL queries** (CTEs, window functions).  
+  - Delivered **genre-wise insights, top movies, and multilingual performance analysis**.  
 
 - 🏦 [Home Loan Data Analysis (Power BI)](https://github.com/Anusha-N114/Power-bi--Home-loan-data-analysis)  
-  📊 Built interactive dashboards to analyze loan approval trends, risk segmentation, and business KPIs.  
+  - Built **interactive dashboards** highlighting approval trends and risk segmentation.  
+  - Provided **business-ready KPIs** for loan decision-making.  
 
 ---
 
@@ -63,17 +72,16 @@
 
 - 🐍 Python for Everybody – Coursera  
 - 🗄️ SQL Certification – Udemy  
-- 🏅 **Mentorship Certificate – MentorMind (with CultFit)**  
-   👉 Real-world project on **Dynamic Pricing Strategy using ML**, guided by industry mentors.  
-- 📌 Currently pursuing **Data Science & AI Bootcamp – UpGrad**  
+- 🏅 **Mentorship Certificate – MentorMind (with CultFit)** (Dynamic Pricing Strategy)  
+- 📌 Data Science & AI Bootcamp – UpGrad (Ongoing)  
 
 ---
 
 ## 📫 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnushaN-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/anushandatascientist)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white)](mailto:anusha.n1142001@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Anusha--N114-black?logo=github)](https://github.com/Anusha-N114)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnushaN-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_LINK)  
 
 ---
 
